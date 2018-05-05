@@ -1,0 +1,6 @@
+[package]
+name = "message-threas-error"
+version = "0.1.0"
+authors = ["kenneth.marete <maretekent@gmail.com>"]
+
+[dependencies]
